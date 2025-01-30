@@ -1,6 +1,6 @@
 #include <stdexcept>
 
-#include "matrix.hpp"
+#include "matrix.h"
 
 Matrix createMatrix(int rows, int cols) {
     return Matrix(rows, std::vector<double>(cols));

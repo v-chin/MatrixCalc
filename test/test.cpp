@@ -1,6 +1,6 @@
 #define CATCH_CONFIG_MAIN
 #include "catch2/catch.hpp"
-#include "matrix.hpp"
+#include "matrix.h"
 
 TEST_CASE("Testing createMatrix (VALID)", "[createMatrix]") {
     REQUIRE(createMatrix(1,1) == Matrix(1, std::vector<double>(1)));
