@@ -1,5 +1,0 @@
-C:/Users/vlchi/OneDrive - Virginia Tech/Spring 2025/ECE 3574/A/MatrixCalc/build/CMakeFiles/MatrixCalc.dir
-C:/Users/vlchi/OneDrive - Virginia Tech/Spring 2025/ECE 3574/A/MatrixCalc/build/CMakeFiles/my_test.dir
-C:/Users/vlchi/OneDrive - Virginia Tech/Spring 2025/ECE 3574/A/MatrixCalc/build/CMakeFiles/RUN_TESTS.dir
-C:/Users/vlchi/OneDrive - Virginia Tech/Spring 2025/ECE 3574/A/MatrixCalc/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/vlchi/OneDrive - Virginia Tech/Spring 2025/ECE 3574/A/MatrixCalc/build/CMakeFiles/ZERO_CHECK.dir
