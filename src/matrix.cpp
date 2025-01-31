@@ -4,7 +4,7 @@
 
 Matrix createMatrix(int rows, int cols) {
     if (rows <= 0 || cols <= 0) throw std::invalid_argument("Incompatible Dimensions"); // CHECK: NON-ZERO DIMENSIONS
-    return Matrix(rows, std::vector<double>(cols));
+    return Matrix(rows, std::vector<double>(cols));     // CREATE THE MATRIX OBJECT
 } // end createMatrix
 
 Matrix addMatrices(const Matrix& m1, const Matrix& m2) {
