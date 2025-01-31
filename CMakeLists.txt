@@ -23,5 +23,5 @@ target_include_directories(my_test PRIVATE ${PROJECT_SOURCE_DIR}/include)
 # Enable testing
 enable_testing()
 
-# Register the test executable with CTest (optional)
+# Register the test executable with CTest
 add_test(NAME my_test COMMAND my_test)

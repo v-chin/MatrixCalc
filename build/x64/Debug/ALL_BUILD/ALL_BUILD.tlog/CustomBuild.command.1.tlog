@@ -1,0 +1,10 @@
+^C:\USERS\VLCHI\ONEDRIVE - VIRGINIA TECH\SPRING 2025\ECE 3574\A\MATRIXCALC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/vlchi/OneDrive - Virginia Tech/Spring 2025/ECE 3574/A/MatrixCalc" "-BC:/Users/vlchi/OneDrive - Virginia Tech/Spring 2025/ECE 3574/A/MatrixCalc/build" --check-stamp-file "C:/Users/vlchi/OneDrive - Virginia Tech/Spring 2025/ECE 3574/A/MatrixCalc/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
